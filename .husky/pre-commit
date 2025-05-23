@@ -1,1 +1,2 @@
+echo "🔍 Running Secretlint..."
 npx --no-install lint-staged
