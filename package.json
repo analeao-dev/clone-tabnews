@@ -55,7 +55,7 @@
   },
   "lint-staged": {
     "*": [
-      "secretlint"
+      "secretlint --maskSecrets"
     ]
   }
 }
