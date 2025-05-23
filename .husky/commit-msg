@@ -1,1 +1,2 @@
+echo "🔍 Running Commitlint..."
 npx commitlint --edit $1
